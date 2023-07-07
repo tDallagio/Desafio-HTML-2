@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    color: #04146c;
+    font-size: 66pt;
+    font-weight: 900;
+    padding: 30px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color:  #04146c;
+    color: white;
+    font-size: 29pt;
+    font-weight: 100;
+    
+}
+
+
+h3{
+    color: #04146c;
+    font-size: 20pt;
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    background-color:  #edf7ff;
+    font-size: 18pt;
+    color:  #04146c;
+    text-align: center;
+}
